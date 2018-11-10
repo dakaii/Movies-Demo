@@ -1,6 +1,7 @@
-package org.dalol.moviedemo
+package org.dalol.moviedemo.apis
 
 import io.reactivex.Observable
+import org.dalol.moviedemo.models.MovieResponse
 import retrofit2.http.GET
 
 /**

@@ -1,4 +1,4 @@
-package org.dalol.moviedemo
+package org.dalol.moviedemo.models
 
 /**
  * @author Filippo
